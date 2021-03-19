@@ -11,3 +11,6 @@
 [Cheatsheet of Statistic](https://github.com/hoangtv2000/document-collection/blob/main/cheatsheet-statistics.pdf)
 
 [Cheatsheet of Probability](https://github.com/hoangtv2000/document-collection/blob/main/cheatsheet-probability.pdf)
+
+## UIT Math for Computer science
+**Author**: Ngoc-Hoang Luong
