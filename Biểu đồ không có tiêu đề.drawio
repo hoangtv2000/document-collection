@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0" version="24.7.16">
   <diagram name="Trang-1" id="JqWufUMo1YawlZKLsDzj">
-    <mxGraphModel dx="1603" dy="2066" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="632" dy="1522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -73,7 +73,7 @@
         <mxCell id="eiK8woipzXvRgsEe4G6c-22" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Model Compilation&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="664.9999999999999" y="115" width="135.36" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eiK8woipzXvRgsEe4G6c-45" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;endArrow=blockThin;endFill=1;strokeWidth=3;dashed=1;strokeColor=#36393d;shadow=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ipRCLwrgvlzFErakf_Oa-33" target="eiK8woipzXvRgsEe4G6c-44" edge="1">
+        <mxCell id="eiK8woipzXvRgsEe4G6c-45" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;endArrow=blockThin;endFill=1;strokeWidth=3;dashed=1;strokeColor=#36393d;shadow=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;opacity=50;" parent="1" source="ipRCLwrgvlzFErakf_Oa-33" target="eiK8woipzXvRgsEe4G6c-44" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1201" y="-212.03999999999996" as="sourcePoint" />
             <mxPoint x="1060" y="-93.72000000000003" as="targetPoint" />
@@ -89,7 +89,7 @@
         <mxCell id="eiK8woipzXvRgsEe4G6c-17" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#000000;shape=mxgraph.azure.automation;pointerEvents=1;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="1186" y="-16.539999999999978" width="33" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eiK8woipzXvRgsEe4G6c-46" value="&lt;font color=&quot;#3d3f42&quot; style=&quot;font-size: 13px;&quot;&gt;&lt;b style=&quot;&quot;&gt;invoke&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;shadow=0;" parent="1" vertex="1">
+        <mxCell id="eiK8woipzXvRgsEe4G6c-46" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b style=&quot;&quot;&gt;invoke&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;shadow=0;fontColor=#9b9c9e;" parent="1" vertex="1">
           <mxGeometry x="1280" y="17.070000000000007" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eiK8woipzXvRgsEe4G6c-50" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Original&lt;br&gt;model&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" parent="1" vertex="1">
