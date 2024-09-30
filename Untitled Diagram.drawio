@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.79" version="24.7.16">
   <diagram name="Page-1" id="y8P5gI3v2mSomhjNhB57">
-    <mxGraphModel dx="1671" dy="932" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1420" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -68,7 +68,7 @@
             <mxPoint x="840" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9OJRtCLrV4LS-GLWhel6-39" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;strokeColor=default;strokeWidth=1.5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=blockThin;endFill=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="9OJRtCLrV4LS-GLWhel6-28" target="-ftrnuhdHp0kOxMEL-sh-8" edge="1">
+        <mxCell id="9OJRtCLrV4LS-GLWhel6-39" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.979;exitY=0.944;exitDx=0;exitDy=0;strokeColor=default;strokeWidth=1.5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=blockThin;endFill=1;entryX=0;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="9OJRtCLrV4LS-GLWhel6-28" target="-ftrnuhdHp0kOxMEL-sh-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1400" y="250" as="targetPoint" />
           </mxGeometry>
@@ -88,7 +88,7 @@
         <mxCell id="9OJRtCLrV4LS-GLWhel6-33" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Learnable&lt;/span&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;Quantization Params&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="1010" y="350" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="9OJRtCLrV4LS-GLWhel6-40" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;strokeColor=default;strokeWidth=1.5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=blockThin;endFill=1;entryX=0.012;entryY=0.925;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="9OJRtCLrV4LS-GLWhel6-36" target="-ftrnuhdHp0kOxMEL-sh-8" edge="1">
+        <mxCell id="9OJRtCLrV4LS-GLWhel6-40" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.979;exitY=0.064;exitDx=0;exitDy=0;strokeColor=default;strokeWidth=1.5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=blockThin;endFill=1;entryX=0.012;entryY=0.925;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" parent="1" source="9OJRtCLrV4LS-GLWhel6-36" target="-ftrnuhdHp0kOxMEL-sh-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1400" y="320" as="targetPoint" />
           </mxGeometry>
