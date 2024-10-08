@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.79" version="24.7.17">
   <diagram name="Page-1" id="y8P5gI3v2mSomhjNhB57">
-    <mxGraphModel dx="1583" dy="864" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1420" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -12,7 +12,7 @@
             <mxPoint x="1020" y="185" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kqmTlmkyEtGYD8SD0YeX-9" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Set-up quantization&lt;br&gt;params for weights&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=none;fontColor=#ffffff;shadow=0;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="kqmTlmkyEtGYD8SD0YeX-9" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Set-up quantization&lt;br style=&quot;font-size: 17px;&quot;&gt;params for weights&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=none;fontColor=#ffffff;shadow=0;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="830" y="155" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kqmTlmkyEtGYD8SD0YeX-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=2.5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=blockThin;endFill=1;" parent="1" edge="1">
@@ -21,10 +21,10 @@
             <mxPoint x="1210" y="185" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kqmTlmkyEtGYD8SD0YeX-11" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;AdaRound&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=none;fontColor=#ffffff;shadow=0;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="kqmTlmkyEtGYD8SD0YeX-11" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;AdaRound&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=none;fontColor=#ffffff;shadow=0;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="1020" y="155" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kqmTlmkyEtGYD8SD0YeX-12" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Set-up quantization&lt;br&gt;params for activations&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=none;fontColor=#ffffff;shadow=0;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="kqmTlmkyEtGYD8SD0YeX-12" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Set-up quantization&lt;br&gt;params for activations&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=none;fontColor=#ffffff;shadow=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="1210" y="155" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kqmTlmkyEtGYD8SD0YeX-1" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Quantization Preprocess&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=none;" parent="1" vertex="1">
@@ -42,7 +42,7 @@
         <mxCell id="9OJRtCLrV4LS-GLWhel6-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=2.5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=blockThin;endFill=1;" parent="1" source="9OJRtCLrV4LS-GLWhel6-4" target="9OJRtCLrV4LS-GLWhel6-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9OJRtCLrV4LS-GLWhel6-4" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Cross-layer Equalizer&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=none;fontColor=#ffffff;shadow=0;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="9OJRtCLrV4LS-GLWhel6-4" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Cross-layer Equalizer&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=none;fontColor=#ffffff;shadow=0;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="390" y="255" width="125" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9OJRtCLrV4LS-GLWhel6-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=2.5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=blockThin;endFill=1;" parent="1" source="9OJRtCLrV4LS-GLWhel6-5" target="9OJRtCLrV4LS-GLWhel6-15" edge="1">
@@ -50,7 +50,7 @@
             <mxPoint x="710" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9OJRtCLrV4LS-GLWhel6-5" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Model rewriting&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=none;fontColor=#ffffff;shadow=0;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="9OJRtCLrV4LS-GLWhel6-5" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Model rewriting&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=none;fontColor=#ffffff;shadow=0;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="550" y="255" width="125" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9OJRtCLrV4LS-GLWhel6-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=blockThin;endFill=1;strokeWidth=2.5;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" target="9OJRtCLrV4LS-GLWhel6-4" edge="1">
@@ -65,7 +65,7 @@
             <mxPoint x="830" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9OJRtCLrV4LS-GLWhel6-15" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;PTQ or&lt;br style=&quot;&quot;&gt;QAT?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=none;fontColor=#ffffff;rounded=1;arcSize=0;shadow=0;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="9OJRtCLrV4LS-GLWhel6-15" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;PTQ or&lt;br style=&quot;font-size: 17px;&quot;&gt;QAT?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=none;fontColor=#ffffff;rounded=1;arcSize=0;shadow=0;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="720" y="240" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9OJRtCLrV4LS-GLWhel6-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=2.5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=blockThin;endFill=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="9OJRtCLrV4LS-GLWhel6-21" edge="1">
@@ -73,7 +73,7 @@
             <mxPoint x="1020" y="375" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9OJRtCLrV4LS-GLWhel6-21" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Set-up quantization&lt;br&gt;params for weights and activations&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=none;fontColor=#ffffff;shadow=0;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="9OJRtCLrV4LS-GLWhel6-21" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Set-up quantization&lt;br style=&quot;font-size: 17px;&quot;&gt;params for weights and activations&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=none;fontColor=#ffffff;shadow=0;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="830" y="345" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9OJRtCLrV4LS-GLWhel6-22" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=2.5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=blockThin;endFill=1;" parent="1" source="9OJRtCLrV4LS-GLWhel6-15" target="9OJRtCLrV4LS-GLWhel6-21" edge="1">
@@ -106,7 +106,7 @@
         <mxCell id="9OJRtCLrV4LS-GLWhel6-45" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.infographic.shadedCube;isoAngle=15;fillColor=#10739E;strokeColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="1570" y="240" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="-ftrnuhdHp0kOxMEL-sh-8" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Quantization&lt;/span&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Postprocess&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=none;shadow=0;fontColor=#ffffff;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="-ftrnuhdHp0kOxMEL-sh-8" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Quantization&lt;br style=&quot;font-size: 17px;&quot;&gt;Postprocess&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=none;shadow=0;fontColor=#ffffff;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="1410" y="250" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-ftrnuhdHp0kOxMEL-sh-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=blockThin;endFill=1;strokeWidth=2.5;" parent="1" edge="1">
@@ -119,10 +119,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="kqmTlmkyEtGYD8SD0YeX-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Quantization Simulation&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=none;fontColor=#ffffff;shadow=0;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="kqmTlmkyEtGYD8SD0YeX-4" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Quantization Simulation&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=none;fontColor=#ffffff;shadow=0;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="1020" y="345" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kqmTlmkyEtGYD8SD0YeX-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Fine-tuning&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=none;fontColor=#ffffff;shadow=0;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="kqmTlmkyEtGYD8SD0YeX-5" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Fine-tuning&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=none;fontColor=#ffffff;shadow=0;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="1210" y="345" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="b8clwXBWg_MT9iDIjXGN-2" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;(1)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
