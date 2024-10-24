@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.79" version="24.7.17" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.79" version="24.8.1" pages="3">
   <diagram name="Trang-1" id="JqWufUMo1YawlZKLsDzj">
     <mxGraphModel dx="2247" dy="1961" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -316,6 +316,68 @@
               <mxPoint x="-100" y="-10.130000000000003" />
             </Array>
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="iaXfrThXVu17ASuPboEA" name="Page-3">
+    <mxGraphModel dx="1183" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jyQaoWpJCsnzuNRpTRu2-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jyQaoWpJCsnzuNRpTRu2-1" target="jyQaoWpJCsnzuNRpTRu2-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jyQaoWpJCsnzuNRpTRu2-1" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Mô hình đã huấn luyện&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="440" y="320" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jyQaoWpJCsnzuNRpTRu2-2" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Lượng tử hóa&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="440" y="390" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jyQaoWpJCsnzuNRpTRu2-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jyQaoWpJCsnzuNRpTRu2-4" target="jyQaoWpJCsnzuNRpTRu2-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jyQaoWpJCsnzuNRpTRu2-4" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Tinh chỉnh mô hình&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="440" y="460" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jyQaoWpJCsnzuNRpTRu2-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.222;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="jyQaoWpJCsnzuNRpTRu2-2" target="jyQaoWpJCsnzuNRpTRu2-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jyQaoWpJCsnzuNRpTRu2-7" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Dữ liệu huấn luyện&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="640" y="320" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="jyQaoWpJCsnzuNRpTRu2-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.778;entryY=-0.016;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="jyQaoWpJCsnzuNRpTRu2-7" target="jyQaoWpJCsnzuNRpTRu2-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jyQaoWpJCsnzuNRpTRu2-10" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Mô hình đã lượng tử hóa&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="440" y="530" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jyQaoWpJCsnzuNRpTRu2-13" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Mô hình đã huấn luyện&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry y="320" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jyQaoWpJCsnzuNRpTRu2-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jyQaoWpJCsnzuNRpTRu2-14" target="jyQaoWpJCsnzuNRpTRu2-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jyQaoWpJCsnzuNRpTRu2-14" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Hiệu chỉnh&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry y="390" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jyQaoWpJCsnzuNRpTRu2-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jyQaoWpJCsnzuNRpTRu2-16" target="jyQaoWpJCsnzuNRpTRu2-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jyQaoWpJCsnzuNRpTRu2-16" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Lượng tử hóa&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry y="460" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jyQaoWpJCsnzuNRpTRu2-18" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Dữ liệu hiệu chỉnh&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="200" y="320" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jyQaoWpJCsnzuNRpTRu2-20" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Mô hình đã lượng tử hóa&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry y="530" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jyQaoWpJCsnzuNRpTRu2-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.222;entryY=-0.031;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="jyQaoWpJCsnzuNRpTRu2-13" target="jyQaoWpJCsnzuNRpTRu2-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jyQaoWpJCsnzuNRpTRu2-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.778;entryY=-0.014;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="jyQaoWpJCsnzuNRpTRu2-18" target="jyQaoWpJCsnzuNRpTRu2-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
