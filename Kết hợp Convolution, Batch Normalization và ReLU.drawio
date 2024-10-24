@@ -116,7 +116,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="K5xLzQctQwaGRrNYVQZw" name="Page-2">
-    <mxGraphModel dx="7283" dy="2640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="8230" dy="3168" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -130,16 +130,16 @@
           <mxGeometry x="1190" y="450" width="370" height="30" as="geometry" />
         </mxCell>
         <mxCell id="X6fdj6hz9WFFwb3Zn343-5" value="&lt;font style=&quot;font-size: 41px;&quot;&gt;Nút giả lượng tử hóa&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=40;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="1320" width="410" height="30" as="geometry" />
+          <mxGeometry x="1005" y="1320" width="410" height="30" as="geometry" />
         </mxCell>
         <mxCell id="X6fdj6hz9WFFwb3Zn343-6" value="&lt;font style=&quot;font-size: 41px;&quot;&gt;Nút đầu vào/ ra đã lượng tử hóa&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=40;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="1460" width="420" height="30" as="geometry" />
+          <mxGeometry x="1005" y="1460" width="420" height="30" as="geometry" />
         </mxCell>
         <mxCell id="X6fdj6hz9WFFwb3Zn343-7" value="&lt;font style=&quot;font-size: 41px;&quot;&gt;Toán tử dấu phẩy động&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=40;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="1610" width="550" height="30" as="geometry" />
+          <mxGeometry x="1000" y="1610" width="550" height="30" as="geometry" />
         </mxCell>
         <mxCell id="X6fdj6hz9WFFwb3Zn343-8" value="&lt;font style=&quot;font-size: 41px;&quot;&gt;Tham số dạng dấu phẩy động&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=40;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="1730" width="550" height="30" as="geometry" />
+          <mxGeometry x="1000" y="1740" width="550" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
