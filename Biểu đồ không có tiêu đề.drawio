@@ -385,7 +385,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="hx6p9XfGjMuSpSoNmg5j" name="Trang-4">
-    <mxGraphModel dx="2053" dy="1855" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1546" dy="1571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -519,7 +519,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="hOC29AqsgzNC4_ULtQC3-29" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Relay Graph&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Partitioner and&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Optimization&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=none;fillColor=#6e96d2;strokeColor=none;fillStyle=solid;fontColor=#ffffff;align=center;shadow=0;" parent="1" vertex="1">
+        <mxCell id="hOC29AqsgzNC4_ULtQC3-29" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Phân vùng&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;đồ&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;thị &lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Relay&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; và tối ưu&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=none;fillColor=#6e96d2;strokeColor=none;fillStyle=solid;fontColor=#ffffff;align=center;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="391.16" y="-79.79000000000003" width="150" height="58.12" as="geometry" />
         </mxCell>
         <mxCell id="hOC29AqsgzNC4_ULtQC3-31" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Runtime của&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; bộ xử lý chủ&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#67AB9F;strokeColor=none;shadow=0;align=center;" parent="1" vertex="1">
