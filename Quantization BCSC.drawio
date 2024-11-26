@@ -354,7 +354,7 @@
         <mxCell id="RKzKLhZImWJ3u_-ny9YQ-31" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;$$Output$$&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e6e6e6;" parent="1" vertex="1">
           <mxGeometry x="1482.5" y="550" width="100" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="RKzKLhZImWJ3u_-ny9YQ-33" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;CvBNRelu&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" parent="1" vertex="1">
+        <mxCell id="RKzKLhZImWJ3u_-ny9YQ-33" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;CvBNRelu&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="1006" y="327.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RKzKLhZImWJ3u_-ny9YQ-34" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;&quot;&gt;CvBNRelu&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dee8fc;fontColor=#333333;strokeColor=default;" parent="1" vertex="1">
