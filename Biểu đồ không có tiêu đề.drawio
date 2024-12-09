@@ -196,7 +196,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="54NE0NsJHY5kyrF9HnqG" name="Page-2">
-    <mxGraphModel dx="2521" dy="2032" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2033" dy="1760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -241,8 +241,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="jRmeNOt-V6hGgYuL7R1_-14" value="Quy trình biên dịch&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="79.81999999999988" y="300" width="135.36" height="30" as="geometry" />
+        <mxCell id="jRmeNOt-V6hGgYuL7R1_-14" value="Quy trình biên dịch mô hình" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;shadow=0;" parent="1" vertex="1">
+          <mxGeometry x="47.41" y="300" width="200.18" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jRmeNOt-V6hGgYuL7R1_-19" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Mô hình đầu vào&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="-490" y="41.809999999999995" width="120.72" height="30" as="geometry" />
