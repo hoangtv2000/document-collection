@@ -196,11 +196,11 @@
     </mxGraphModel>
   </diagram>
   <diagram id="54NE0NsJHY5kyrF9HnqG" name="Page-2">
-    <mxGraphModel dx="1180" dy="1284" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1783" dy="1615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="lqN7U2-qPLsVO84f_bKF-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="lqN7U2-qPLsVO84f_bKF-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="-300" y="-50" width="440" height="80" as="geometry" />
         </mxCell>
         <mxCell id="jRmeNOt-V6hGgYuL7R1_-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;strokeColor=#000000;strokeWidth=4;endArrow=block;endFill=1;shadow=0;" parent="1" edge="1">
@@ -241,7 +241,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="jRmeNOt-V6hGgYuL7R1_-14" value="Quy trình biên dịch mô hình" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;shadow=0;" parent="1" vertex="1">
+        <mxCell id="jRmeNOt-V6hGgYuL7R1_-14" value="Khối biên dịch mô hình" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="47.41" y="300" width="200.18" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jRmeNOt-V6hGgYuL7R1_-19" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Mô hình đầu vào&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" parent="1" vertex="1">
@@ -324,7 +324,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="lqN7U2-qPLsVO84f_bKF-2" value="Quy trình tối ưu mô hình" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;shadow=0;" vertex="1" parent="1">
+        <mxCell id="lqN7U2-qPLsVO84f_bKF-2" value="Khối tối ưu mô hình" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="-163.84" y="30" width="167.68" height="30" as="geometry" />
         </mxCell>
       </root>
