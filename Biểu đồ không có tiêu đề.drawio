@@ -40,7 +40,7 @@
           <mxGeometry x="-3.6700000000000133" y="12.989999999999993" width="38.44" height="10" as="geometry" />
         </mxCell>
         <mxCell id="Lr69Wq48RwQ8DJ6pYq4B-77" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.infographic.shadedCube;isoAngle=15;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=default;gradientColor=#ea6b66;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="-174.82" y="-52.72" width="80.36" height="85.49" as="geometry" />
+          <mxGeometry x="-184.82" y="-67.42" width="95.54" height="102.77" as="geometry" />
         </mxCell>
         <mxCell id="Lr69Wq48RwQ8DJ6pYq4B-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;strokeColor=#000000;strokeWidth=4;endArrow=block;endFill=1;shadow=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
