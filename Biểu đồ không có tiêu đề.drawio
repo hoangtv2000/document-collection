@@ -251,10 +251,10 @@
           <mxGeometry x="190" y="16.200000000000003" width="127.5" height="25.61" as="geometry" />
         </mxCell>
         <mxCell id="jRmeNOt-V6hGgYuL7R1_-22" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.script_file;pointerEvents=1;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="-188.7500000000001" y="164.83" width="47.5" height="50" as="geometry" />
+          <mxGeometry x="-158.7500000000001" y="164.83" width="47.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="jRmeNOt-V6hGgYuL7R1_-23" value="Chương trình cơ sở cho phần cứng" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="-230" y="225.18" width="130" height="30" as="geometry" />
+          <mxGeometry x="-200" y="225.18" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jRmeNOt-V6hGgYuL7R1_-25" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="-22.5" y="120" width="340" height="180" as="geometry" />
@@ -270,11 +270,11 @@
         </mxCell>
         <mxCell id="jRmeNOt-V6hGgYuL7R1_-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;strokeColor=#000000;strokeWidth=4;endArrow=block;endFill=1;shadow=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-60" y="189.73" as="sourcePoint" />
-            <mxPoint x="-100" y="189.73" as="targetPoint" />
+            <mxPoint x="-50" y="189.69" as="sourcePoint" />
+            <mxPoint x="-90" y="189.69" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-70" y="189.73" />
-              <mxPoint x="-70" y="189.73" />
+              <mxPoint x="-60" y="189.69" />
+              <mxPoint x="-60" y="189.69" />
             </Array>
           </mxGeometry>
         </mxCell>
