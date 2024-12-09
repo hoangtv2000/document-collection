@@ -196,7 +196,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="54NE0NsJHY5kyrF9HnqG" name="Page-2">
-    <mxGraphModel dx="2033" dy="1760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1180" dy="1284" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -213,7 +213,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jRmeNOt-V6hGgYuL7R1_-3" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.infographic.shadedCube;isoAngle=15;fillColor=#10739E;strokeColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="226.25" y="-44.15" width="55" height="55" as="geometry" />
+          <mxGeometry x="220" y="-50" width="61.25" height="60.85" as="geometry" />
         </mxCell>
         <mxCell id="jRmeNOt-V6hGgYuL7R1_-6" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp; &amp;nbsp; Lượng tử hóa&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; toàn số nguyên&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=none;fillColor=#6E8194;strokeColor=none;fillStyle=solid;fontColor=#ffffff;shadow=0;align=left;" parent="1" vertex="1">
           <mxGeometry x="-40" y="-37.279999999999994" width="170" height="56.29" as="geometry" />
