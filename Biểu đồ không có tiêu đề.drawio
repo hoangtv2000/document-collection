@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="25.0.0" pages="4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.79" version="25.0.3" pages="4">
   <diagram name="Trang-1" id="JqWufUMo1YawlZKLsDzj">
     <mxGraphModel dx="2247" dy="1961" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -196,7 +196,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="54NE0NsJHY5kyrF9HnqG" name="Page-2">
-    <mxGraphModel dx="1892" dy="1683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2483" dy="2001" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -253,7 +253,7 @@
         <mxCell id="jRmeNOt-V6hGgYuL7R1_-22" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.script_file;pointerEvents=1;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="-158.7500000000001" y="194.83" width="47.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="jRmeNOt-V6hGgYuL7R1_-23" value="Chương trình cơ sở cho phần cứng" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;shadow=0;" parent="1" vertex="1">
+        <mxCell id="jRmeNOt-V6hGgYuL7R1_-23" value="Firmware cho NPU" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="-200" y="254.19" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jRmeNOt-V6hGgYuL7R1_-25" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;shadow=0;" parent="1" vertex="1">
