@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="26.1.1">
   <diagram name="Trang-1" id="q7D1C00wIaDFVtjJNffa">
-    <mxGraphModel dx="1947" dy="595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2339" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -176,7 +176,7 @@
             <mxPoint x="1115" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fik9IuDUR1Fv5bedAydr-81" value="&lt;font&gt;W: (48, &lt;font style=&quot;color: light-dark(rgb(0, 0, 255), rgb(237, 237, 237));&quot;&gt;24&lt;/font&gt;, 3, 3)&lt;/font&gt;&lt;div&gt;&lt;font&gt;B : (48)&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="fik9IuDUR1Fv5bedAydr-81" value="&lt;font&gt;W: (&lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(237, 237, 237));&quot;&gt;48&lt;/font&gt;, &lt;font style=&quot;color: light-dark(rgb(0, 0, 255), rgb(237, 237, 237));&quot;&gt;24&lt;/font&gt;, 3, 3)&lt;/font&gt;&lt;div&gt;&lt;font&gt;B : (&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;48&lt;/font&gt;)&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1000" y="640" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fik9IuDUR1Fv5bedAydr-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fik9IuDUR1Fv5bedAydr-83" target="fik9IuDUR1Fv5bedAydr-97">
@@ -191,7 +191,7 @@
             <mxPoint x="1275" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fik9IuDUR1Fv5bedAydr-85" value="&lt;font&gt;W: (48, 24, 3, 3)&lt;/font&gt;&lt;div&gt;&lt;font&gt;B : (48)&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="fik9IuDUR1Fv5bedAydr-85" value="&lt;font&gt;W: (&lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(237, 237, 237));&quot;&gt;48&lt;/font&gt;, &lt;font style=&quot;color: light-dark(rgb(0, 0, 255), rgb(237, 237, 237));&quot;&gt;24&lt;/font&gt;, 3, 3)&lt;/font&gt;&lt;div&gt;&lt;font&gt;B : (&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;48&lt;/font&gt;)&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1160" y="640" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fik9IuDUR1Fv5bedAydr-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="fik9IuDUR1Fv5bedAydr-87" target="fik9IuDUR1Fv5bedAydr-107">
